@@ -1,7 +1,7 @@
 # Customer Behavior Analytics: Bridging the Loyalty Gap in Smart Home Retail
 
 ## 1. Executive Summary
-SmartStream Technologies, a digital retailer specializing in smart home innovation, faced a "Loyalty Tier Paradox" where high digital engagement did not correlate with high-tier retention. This project identifies a critical gap where Bronze tier members average 12.27 transactions but remain untapped for tier migration, while high-value Gold members show declining satisfaction scores (2.65). By analyzing over **$4.12 million in concentrated revenue** within the Nest USA category, this solution provides a roadmap to re-energize declining high-tier segments and nudge frequent "Budget Buyers" toward higher lifetime value. The implementation of these strategies targets a **15% Tier Migration Rate** and a satisfaction recovery to 3.15 for Gold members.
+SmartStream Technologies, a digital retailer specializing in smart home innovation, faced a "Loyalty Tier Paradox" where high digital engagement did not correlate with high-tier retention. This project identifies a critical gap where Bronze tier members average 12.27 transactions but remain untapped for tier migration, while high-value Gold members show declining satisfaction scores (2.65). By analyzing over **$1.12 million in concentrated revenue** within the Nest USA category, this solution provides a roadmap to re-energize declining high-tier segments and nudge frequent "Budget Buyers" toward higher lifetime value. The implementation of these strategies targets a **15% Tier Migration Rate** and a satisfaction recovery to 3.15 for Gold members.
 
 ## 2. Business Problem
 **The Decision:** The organization was repeatedly making the decision to treat "transactional frequency" as the primary indicator of customer health and loyalty.
@@ -18,7 +18,7 @@ SmartStream Technologies, a digital retailer specializing in smart home innovati
 
 ## 4. Demonstration of Skills and Capabilities
 * **Loyalty Gap Identification:** Quantified the disconnect between frequency and spend, noting that Bronze users average 12.27 transactions but contribute lower individual margins compared to Gold.
-* **Revenue Risk Assessment:** Identified a high revenue concentration risk ($4.12M) in the Nest USA category, highlighting the need for cross-selling in other smart home categories.
+* **Revenue Risk Assessment:** Identified a high revenue concentration risk ($1.12M) in the Nest USA category, highlighting the need for cross-selling in other smart home categories.
 * **Migration Strategy Design:** Created "Progression Nudges" for Bronze users exceeding 14 transactions or $1,800 in spend to accelerate Silver-tier entry.
 * **Customer Persona Profiling:** Developed distinct marketing profiles, such as "Dormant Gold" and "Active Bronze," to enable personalized outreach.
 
